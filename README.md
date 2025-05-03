@@ -1,6 +1,6 @@
 # AllOneTools - Free Online Developer Tools
 
-![AllOneTools](https://allonetools.com/images/logo.png)
+![AllOneTools](https://allonetools.com/images/favicon-32x32.png)
 
 A comprehensive suite of free browser-based developer tools designed to make web development easier. All tools process data directly in your browser - nothing is sent to our servers, ensuring your data stays private.
 
